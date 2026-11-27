@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific: downloaded / generated files
+human-nutrition-text.pdf
+output.txt
