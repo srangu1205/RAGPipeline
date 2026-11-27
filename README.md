@@ -1,0 +1,2 @@
+# RAGPipeline
+creating RAG pipeline 
